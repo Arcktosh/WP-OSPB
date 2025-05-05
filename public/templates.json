@@ -1,0 +1,24 @@
+[
+	{
+		"id": "hero-1",
+		"name": "Hero with CTA",
+		"category": "Hero",
+		"keywords": ["landing", "welcome", "cta"],
+		"layout": [
+			{
+				"id": "x",
+				"type": "text",
+				"value": "Welcome",
+				"styles": { "padding": "p-6" }
+			}
+		],
+		"preview": "https://gml-builder.io/previews/hero-1.png",
+		"submittedBy": {
+			"id": "agency123",
+			"name": "Agency X",
+			"email": "agency@gml.com"
+		},
+		"status": "approved | rejected | pending",
+		"syncedAt": "2025-05-03T10:00:00Z"
+	}
+]

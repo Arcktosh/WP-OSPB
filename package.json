@@ -1,0 +1,20 @@
+{
+  "name": "wp-ospb",
+  "version": "1.0.0",
+  "description": "Open Source Page Builder for WordPress",
+  "main": "gml-builder.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Henning",
+  "license": "MIT",
+  "dependencies": {
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/modifiers": "^9.0.0",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@tailwindcss/postcss": "^4.1.5",
+    "html2canvas": "^1.4.1",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.5"
+  }
+}
